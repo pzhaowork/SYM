@@ -2,7 +2,7 @@
 
 There are two projects in this repository.  
 
-### DEA:
+### EDA:
 
 This is a project that analyzes mutual fund data for preliminary data quality check. 
 
