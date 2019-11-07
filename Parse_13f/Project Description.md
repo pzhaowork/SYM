@@ -11,6 +11,6 @@
 
 5. Aggregate all hedge fund holdings and join with R3000 list in Russell3K.csv. We excluded all put and call options in our analysis.
 
-6. Reporting: 
-    a. Top hedge fund ownership stocks.  
-    b. Largest hedge fund by total stock value. 
+6. Reporting:  
+ a. Top hedge fund ownership stocks.   
+ b. Largest hedge fund by total stock value.
